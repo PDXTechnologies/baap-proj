@@ -1,13 +1,12 @@
+PDX DaaP (Decentralization-as-a-Platform) disruptively innovates and reconstructs the blockchain for painless development, deployment, operation and cloudification of secure and privacy-protected, extremely scalable and available real world critical applications at minimized cost and with fastest time-to-market.
 
-PDX DaaP is an innovative blockchain-based decentralization platform for painless development, deployment, operation and cloudification of secure and privacy-protected, extremely scalable and available real world applications at minimized cost and with fastest time-to-market.
+PDX DaaP sits atop and is agnostic to the underlining blockchain stacks with inter-operability and federation support across same or different blockchain stacks. PDX DaaP runs atop Ethereum and Tendermint right now. Support on HyperLedger is currently underway in line with the HyperLedger project progress. 
 
-PDX DaaP realizes HTTP/S RESTful-based smart contracts (d-app) to run on node in DaaP container, on node outside of the DaaP container, or remotely. Truly no restriction smartest contracts on the blockchain now!
+PDX DaaP supports truly private smart contracts (d-app) on public or consotium DaaP chains, with full protection on business data, business logic as well as the whole operation environment.
 
-PDX DaaP runs atop Ethereum and Tendermint right now. Support on HyperLedger is currently underway in line with the HyperLedger project progress. 
+PDX DaaP realizes HTTP/S RESTful-based smart contracts to run on-node in the DaaP container, on-node outside of the DaaP container, or totally remote. No restriction on functionality and technology preference and integration with existing ecosystem.
 
-Source code is to go online in the next couple of days. So please stay tuned and waiting for the @PDXTechnologies twitter announcement.
-
-For the full overview of the PDX DaaP blockchain-based decentralization platform, please read the white paper at http://www.pdxtech.biz/whitepaper/
+For business collaboration, please contact me anytime. To keep yourself up-to-date, please visit http://www.pdx.life and follow us on twitter @PDXTechnologies. 
 
 Thanks,
 jz@pdxtech.biz
