@@ -1,4 +1,4 @@
-PDX DaaP (Decentralization-as-a-Platform) disruptively innovates and reconstructs the blockchain for painless development, deployment, operation and cloudification of secure and privacy-protected, extremely scalable and available real world critical applications at minimized cost and with fastest time-to-market.
+PDX DaaP (Decentralization-as-a-Platform) disruptively reinnovates and reconstructs the blockchain for painless development, deployment, operation and cloudification of secure and privacy-protected, extremely scalable and available real world critical applications at minimized cost and with fastest time-to-market.
 
 PDX DaaP sits atop and is agnostic to the underlining blockchain stacks with interoperability and federation support across same or different blockchain stacks. PDX DaaP supports Ethereum and Tendermint right now; support on HyperLedger is currently underway in line with the HyperLedger project progress. 
 
